@@ -1,6 +1,6 @@
 # HomelabV2
 ## Overview
-Welcome to my home lab setup! "Dashershomelab" I've created this environment to learn and understand various aspects of networking, monitoring, prevention, administration, and hardening techniques. It's been an incredible learning experience, and I'm excited to share my setup with you.
+Welcome to my New home lab setup! "HomelabV2" I've created this environment to learn and understand various aspects of networking,Docker and containerization,Cloud Services integration to on prem network, monitoring, prevention, administration, and hardening techniques. It's been an incredible learning experience, and I'm excited to share my setup with you.
 
 ### Hardware
 - **Host PC:** Repurposed gaming PC with upgraded RAM to 64GB and a 2TB M.2 storage for enhanced performance.
@@ -12,26 +12,28 @@ Welcome to my home lab setup! "Dashershomelab" I've created this environment to 
 
 ### Virtual Machines
 - **Host OS:** Windows 11
-- **Firewall/IDS:** PfSense with Snort extension
+- **Firewall/IDS:** PfSense with wazuh extension
 - **External Attack Machine:** Kali Linux
-- **Windows Domain Controller:** With two client PCs
+- **Windows Domain Controller:** Windows server 2022
+- **Windows Client Machine:** Windows 10 and windows 8
 - **Vulnerable Machines:** Four intentionally vulnerable machines for testing and practice.
-- **Monitoring:**
-  - **Splunk:** Monitoring the Windows environment.
-  - **Security Onion:** Monitoring all traffic via PfSense span port.
+- **Monitoring:** Wazuh and Nessus.
+- **Incident Response:** The Hiive and cortex.
+- **Security Onion:** Monitoring all traffic via PfSense.
 
 ## Purpose
 My home lab serves as a hands-on environment for:
 - Learning networking concepts and technologies.
 - Practicing monitoring, prevention, and administration techniques.
 - Experimenting with home automation using Home Assistant.
+- Experiimenting with the Incident response using TheHive project.
 - Conducting vulnerability assessments with Nessus.
 - Testing security measures and configurations.
 <br> <br>
 <!--# Home Lab Setup-->
 <b>HomeLab Topology</b><br/>
 
-<img align="center" src="https://i.imgur.com/hsgq76C.png" /><br/>
+<img align="center" src="https://i.imgur.com/oBdDYAA.png" /><br/>
 
 
 I would like to thank lot of passionate people who have inspired me create my labs<br>
