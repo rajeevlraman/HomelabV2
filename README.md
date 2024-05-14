@@ -31,7 +31,7 @@ My home lab serves as a hands-on environment for:
 - Testing security measures and configurations.
 <br> <br>
 <!--# Home Lab Setup-->
-<b>HomeLab Topology</b><br/>
+<b>HomeLabV2 Topology</b><br/>
 
 <img align="center" src="https://i.imgur.com/oBdDYAA.png" /><br/>
 
