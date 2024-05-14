@@ -37,7 +37,7 @@ My home lab serves as a hands-on environment for:
 
 
 I would like to thank lot of passionate people who have inspired me create my labs<br>
-GerardObrien his ultimate Homelab, Christian and cyberwox
+GerardObrien his ultimate Homelab, Christian for his insight on dockers and cyberwox
 
 <h2>  Connect with me:</h2>
 
