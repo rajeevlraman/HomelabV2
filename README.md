@@ -29,6 +29,7 @@ My home lab serves as a hands-on environment for:
 - Experiimenting with the Incident response using TheHive project.
 - Conducting vulnerability assessments with Nessus.
 - Testing security measures and configurations.
+- Understanding Incident response featrures
 <br> <br>
 <!--# Home Lab Setup-->
 <b>HomeLabV2 Topology</b><br/>
