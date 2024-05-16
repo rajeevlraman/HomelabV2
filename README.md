@@ -18,7 +18,7 @@ Welcome to my New home lab setup! "HomelabV2" I've created this environment to l
 - **Windows Client Machine:** Windows 10 and windows 8
 - **Vulnerable Machines:** Four intentionally vulnerable machines for testing and practice.
 - **Monitoring:** Wazuh and Nessus.
-- **Incident Response:** The Hiive and cortex.
+- **Incident Response:** THEHIVE Project and cortex.
 - **Security Onion:** Monitoring all traffic via PfSense.
 
 ## Purpose
