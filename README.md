@@ -32,7 +32,7 @@ My home lab serves as a hands-on environment for:
 - Understanding Incident response featrures
 <br> <br>
 <!--# Home Lab Setup-->
-<b>HomeLabV2 Topology</b><br/>
+<b>HomeLabV2 Setup</b><br/>
 
 <img align="center" src="https://i.imgur.com/oBdDYAA.png" /><br/>
 
