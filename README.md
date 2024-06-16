@@ -1,6 +1,8 @@
 # HomelabV2
 ## Overview
-Welcome to my New home lab setup! "HomelabV2" I've created this environment to learn and understand various aspects of networking,Docker and containerization,Cloud Services integration to on prem network, monitoring, prevention, administration, and hardening techniques.Also this lab I have used Thehive Project to understand the Incident Response features. It's been an incredible learning experience, and I'm excited to share my setup with you. its a work in progress. This lab challenges my current Hardware as it needs a bit more resources
+Welcome to my New home lab setup! "HomelabV2" I've created this environment to learn and understand various aspects of networking,Docker and containerization,Cloud Services integration to on prem network, monitoring, prevention, administration, and hardening techniques.<br>
+
+Also new to this lab is the excessive use of containers, inclusion of cloud servces and accessinng it via VPN. I have used Thehive Project to understand the Incident Response features. It's been an incredible learning experience, and I'm excited to share my setup with you. its a work in progress. I also intend to use Ansible and kubernetes. This lab challenges my current Hardware as it needs a bit more resources
 
 ### Hardware
 - **Host PC:** Repurposed gaming PC with upgraded RAM to 64GB and a 2TB M.2 storage for enhanced performance.
