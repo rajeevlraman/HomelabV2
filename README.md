@@ -1,53 +1,65 @@
-# HomelabV2
-## Overview
-Welcome to my New home lab setup! "HomelabV2" I've created this environment to learn and understand various aspects of networking,Docker and containerization,Cloud Services integration to on prem network, monitoring, prevention, administration, and hardening techniques.<br>
+<!-- homelan V2 -->
 
-Also new to this lab is the excessive use of containers, inclusion of cloud servces and accessinng it via VPN. I have used Thehive Project to understand the Incident Response features. It's been an incredible learning experience, and I'm excited to share my setup with you. its a work in progress. I also intend to use Ansible and kubernetes. This lab challenges my current Hardware as it needs a bit more resources
+# HomelabV2: A Comprehensive Home Lab Environment
 
-### Hardware
-- **Host PC:** Repurposed gaming PC with upgraded RAM to 64GB and a 2TB M.2 storage for enhanced performance.
-- **Network Segmentation:** I've segmented the network to simulate an internal and external network, using span ports to direct all data to the monitoring system.
-- **Raspberry Pis:** I've included three Raspberry Pis in my setup:
-  - One hosts Nessus vulnerability scanner.
-  - Another runs Home Assistant for home automation.
-  - The third is dedicated to Pi-Hole, serving as my DNS server primarily for ad-blocking.
+---
 
-### Virtual Machines
-- **Host OS:** Windows 11
-- **Firewall/IDS:** PfSense with wazuh extension
-- **External Attack Machine:** Kali Linux
-- **Windows Domain Controller:** Windows server 2022
-- **Windows Client Machine:** Windows 10 and windows 8
-- **Vulnerable Machines:** Four intentionally vulnerable machines for testing and practice.
-- **Monitoring:** Wazuh and Nessus.
-- **Incident Response:** THEHIVE Project and cortex.
-- **Security Onion:** Monitoring all traffic via PfSense.
+Welcome to "HomelabV2," my upgraded or fully equipped home lab environment designed to delve deeply into various facets of modern IT infrastructure. This setup provides a robust platform for learning and experimentation in networking, containerization, cloud service integration, security monitoring, and incident response. With a focus on both practical applications and theoretical understanding, HomelabV2 represents a significant step in my journey to mastering these technologies. While the lab is a work in progress, it has already proven to be an invaluable learning tool.
 
-## Purpose
-My home lab serves as a hands-on environment for:
-- Learning networking concepts and technologies.
-- Practicing monitoring, prevention, and administration techniques.
-- Experimenting with home automation using Home Assistant.
-- Experiimenting with the Incident response using TheHive project.
-- Conducting vulnerability assessments with Nessus.
-- Testing security measures and configurations.
-- Understanding Incident response featrures
-<br> <br>
-<!--# Home Lab Setup-->
-<b>HomeLabV2 Setup</b><br/>
+## Hardware and Network Configuration
 
-<img align="center" src="https://i.imgur.com/oBdDYAA.png" /><br/>
+- **Host PC**: A repurposed gaming PC, upgraded with 64GB of RAM and a 2TB M.2 SSD for enhanced performance, serving as the cornerstone of the lab.
+- **Network Segmentation**: The lab network is divided into internal and external segments. I employ SPAN (Switch Port Analyzer) ports to mirror network traffic to my monitoring systems, allowing comprehensive analysis and security testing.
+- **Raspberry Pis**:
+  - **Raspberry Pi 1**: Hosts Nessus for vulnerability scanning.
+  - **Raspberry Pi 2**: Runs Home Assistant, managing home automation.
+  - **Raspberry Pi 3**: Dedicated to Pi-Hole, providing DNS services with ad-blocking capabilities.
 
+## Virtual Machines
 
-I would like to thank lot of passionate people who have inspired me create my labs<br>
-GerardObrien his ultimate Homelab, Christian for his insight on dockers and cyberwox
+The virtualized environment extends the capabilities of HomelabV2, running on Windows 11 as the host operating system. The VM lineup includes:
 
-<h2>  Connect with me:</h2>
+- **Firewall/IDS**: PfSense with the Wazuh extension for intrusion detection and firewall management.
+- **External Attack Machine**: Kali Linux for ethical hacking and penetration testing.
+- **Windows Domain Controller**: Windows Server 2022, managing the network domain.
+- **Client Machines**: Windows 10 and Windows 8, simulating end-user environments.
+- **Vulnerable Machines**: Four intentionally vulnerable systems, serving as targets for security testing and practice.
+- **Monitoring and Security**:
+  - **Wazuh**: For real-time monitoring and log management.
+  - **Nessus**: Continues as a key vulnerability assessment tool.
+  - **Security Onion**: Integrates with PfSense to monitor all network traffic for potential threats.
 
-<img align="left" alt="rajeev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="rajeev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="rajeev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="rajeev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+## Cloud and Containerization
+
+HomelabV2 leverages Docker extensively, providing isolated environments for various applications and services. Additionally, the lab integrates cloud services to simulate hybrid cloud/on-premises scenarios and is accessible via a VPN, ensuring secure remote access.
+
+## Incident Response and Automation
+
+- **TheHive Project**: Central to my incident response learning, offering a collaborative platform for threat investigation and response.
+- **Cortex**: Enhances TheHive with automated analysis and response capabilities.
+- **Ansible**: Planned for use in automating and managing configurations across the lab.
+- **Kubernetes**: Under consideration for container orchestration, aiming to manage and scale containerized applications efficiently.
+
+## Purpose and Learning Objectives
+
+HomelabV2 is crafted to support a wide range of learning and development goals:
+
+- **Networking**: Explore and understand advanced networking concepts and technologies.
+- **Monitoring and Security**: Practice real-time monitoring, prevention, and administrative techniques using industry-standard tools.
+- **Home Automation**: Experiment with home automation technologies via Home Assistant.
+- **Incident Response**: Develop skills in handling and responding to security incidents using TheHive Project and associated tools.
+- **Vulnerability Assessments**: Conduct thorough vulnerability assessments with Nessus and other tools.
+- **Security Testing**: Test and validate security measures and configurations in a controlled environment.
+- **Cloud Integration**: Explore and integrate cloud services, learning to manage hybrid environments effectively.
+- **Automation and Orchestration**: Experiment with Ansible for automation and plan for Kubernetes to manage containers at scale.
+
+## Future Directions
+
+As HomelabV2 evolves, I aim to further enhance its capabilities, potentially incorporating more advanced cloud services, expanding the use of Kubernetes for container orchestration, and deepening my expertise in Security and automation with Ansible.
+
+---
+
+I look forward to the continued growth and learning that HomelabV2 will facilitate. This setup not only challenges my current hardware but also pushes my understanding and skills to new heights.
 
 
 <!--
