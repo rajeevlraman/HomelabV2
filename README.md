@@ -63,7 +63,7 @@ As HomelabV2 evolves, I aim to further enhance its capabilities, potentially inc
 
 I look forward to the continued growth and learning that HomelabV2 will facilitate. This setup not only challenges my current hardware but also pushes my understanding and skills to new heights.<br><br>
 
-the Idea and setup is inspired from various blogs and videos, especially from Gerard Obrien, Christaian , Cyyberwox academy, and the Community.
+***The Idea and setup is inspired from various blogs and videos, especially from Gerard Obrien, Christaian , Cyberwox academy, and the Community.***
 
 
 <!--
