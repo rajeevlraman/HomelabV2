@@ -51,7 +51,9 @@ HomelabV2 is crafted to support a wide range of learning and development goals:
 - **Vulnerability Assessments**: Conduct thorough vulnerability assessments with Nessus and other tools.
 - **Security Testing**: Test and validate security measures and configurations in a controlled environment.
 - **Cloud Integration**: Explore and integrate cloud services, learning to manage hybrid environments effectively.
-- **Automation and Orchestration**: Experiment with Ansible for automation and plan for Kubernetes to manage containers at scale.
+- **Automation and Orchestration**: Experiment with Ansible for automation and plan for Kubernetes to manage containers at scale.<br><br>
+
+<img align="center" src="https://i.imgur.com/oBdDYAA.png" /><br/>
 
 ## Future Directions
 
@@ -59,7 +61,9 @@ As HomelabV2 evolves, I aim to further enhance its capabilities, potentially inc
 
 ---
 
-I look forward to the continued growth and learning that HomelabV2 will facilitate. This setup not only challenges my current hardware but also pushes my understanding and skills to new heights.
+I look forward to the continued growth and learning that HomelabV2 will facilitate. This setup not only challenges my current hardware but also pushes my understanding and skills to new heights.<br><br>
+
+the Idea and setup is inspired from various blogs and videos, especially from Gerard Obrien, Christaian , Cyyberwox academy, and the Community.
 
 
 <!--
