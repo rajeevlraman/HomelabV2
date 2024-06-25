@@ -30,4 +30,4 @@ Kali Linux is a specialized Linux distribution designed for digital forensics an
 
 Kali Linux stands out as a powerful and essential tool for anyone involved in cybersecurity, offering a comprehensive suite of tools and utilities tailored for testing and securing networks and systems.
 
-[`Linux commands`](Lab\Kali\assets\Linux_commands.md)
+[`Linux commands`](/Lab/Kali/assets/Linux_commands.md)
