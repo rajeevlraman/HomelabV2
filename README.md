@@ -2,7 +2,8 @@
 
 # HomelabV2: A Comprehensive Home Lab Environment
 
----
+# Topics Overview
+
 
 Welcome to "HomelabV2," my upgraded or fully equipped home lab environment designed to delve deeply into various facets of modern IT infrastructure. This setup provides a robust platform for learning and experimentation in networking, containerization, cloud service integration, security monitoring, and incident response. With a focus on both practical applications and theoretical understanding, HomelabV2 represents a significant step in my journey to mastering these technologies. While the lab is a work in progress, it has already proven to be an invaluable learning tool.
 
@@ -59,7 +60,11 @@ HomelabV2 is crafted to support a wide range of learning and development goals:
 
 As HomelabV2 evolves, I aim to further enhance its capabilities, potentially incorporating more advanced cloud services, expanding the use of Kubernetes for container orchestration, and deepening my expertise in Security and automation with Ansible.
 
----
+# Topics Overview
+
+[**Docker**](./Lab/Docker/docker.md) | [**Domain Controller**](./Lab/DomainController/DomainController.md) | [**Kali**](./Lab/Kali/KaliLinux.md) | [**Metasploit**](./Lab/Metasploit/metasploit.md) | [**Nessus**](./Lab/Nessus/Nessus.md)  
+[**pfSense**](./Lab/PfSense/pfsense.md) | [**Security Onion**](./Lab/SecurityOnion/assets/SecurityOnion.md) | [**Splunk**](./Lab/Splunk/Splunk.md) | [**TheHive Project**](./Lab/TheHiveProject/TheHive-cortex.mdoject.md) | [**Wazuh**](./Lab/Wazuh/Wazuh.md) | [**Windows**](./Lab/Windows/windows.md)
+
 
 I look forward to the continued growth and learning that HomelabV2 will facilitate. This setup not only challenges my current hardware but also pushes my understanding and skills to new heights.<br><br>
 
