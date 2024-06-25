@@ -63,7 +63,7 @@ As HomelabV2 evolves, I aim to further enhance its capabilities, potentially inc
 # Topics Overview
 
 [**Docker**](./Lab/Docker/docker.md) | [**Domain Controller**](./Lab/DomainController/DomainController.md) | [**Kali**](./Lab/Kali/KaliLinux.md) | [**Metasploit**](./Lab/Metasploit/metasploit.md) | [**Nessus**](./Lab/Nessus/Nessus.md)  
-[**pfSense**](./Lab/PfSense/pfsense.md) | [**Security Onion**](./Lab/SecurityOnion/assets/SecurityOnion.md) | [**Splunk**](./Lab/Splunk/Splunk.md) | [**TheHive Project**](./Lab/TheHiveProject/TheHive-cortex.mdoject.md) | [**Wazuh**](./Lab/Wazuh/Wazuh.md) | [**Windows**](./Lab/Windows/windows.md)
+[**pfSense**](./Lab/PfSense/pfsense.md) | [**Security Onion**](./Lab/SecurityOnion/assets/SecurityOnion.md) | [**Splunk**](./Lab/Splunk/Splunk.md) | [**TheHive Project**](./Lab/TheHiveProject/TheHive-cortex.mdoject.md) | [**Wazuh**](./Lab/Wazuh/Wazuh.md) | [**Windows**](./Lab/Windows/windows.md) | [**MAC-OS**](./Lab/Macos/MacOS.md) | [**MAC-OS-Architecture**](./Lab/Macos/MacOS_Architecture.md) | [**MAC-OS-NAvigation**](./Lab/Macos/MacOS_Navigation.md)
 
 
 I look forward to the continued growth and learning that HomelabV2 will facilitate. This setup not only challenges my current hardware but also pushes my understanding and skills to new heights.<br><br>
